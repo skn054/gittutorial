@@ -82,3 +82,4 @@ merge conflicts can occur if multiple people try to make changes to the same fil
 Edited file to resolve conflicts
 
 Adding new feature to resolve conflicts
+Conflict on local machines
